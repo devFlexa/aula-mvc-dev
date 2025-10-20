@@ -166,3 +166,4 @@ C:\Users\thiag\Downloads\aula_mvc\obj\Debug\net8.0\refint\aula_mvc.dll
 C:\Users\thiag\Downloads\aula_mvc\obj\Debug\net8.0\aula_mvc.pdb
 C:\Users\thiag\Downloads\aula_mvc\obj\Debug\net8.0\aula_mvc.genruntimeconfig.cache
 C:\Users\thiag\Downloads\aula_mvc\obj\Debug\net8.0\ref\aula_mvc.dll
+C:\Users\thiag\Downloads\aula_mvc\obj\Debug\net8.0\aula_mvc.sourcelink.json
