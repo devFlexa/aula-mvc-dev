@@ -1,0 +1,49 @@
+/* _content/aula_mvc/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-hph0i9miel] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-hph0i9miel] {
+  color: #0077cc;
+}
+
+.btn-primary[b-hph0i9miel] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-hph0i9miel], .nav-pills .show > .nav-link[b-hph0i9miel] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-hph0i9miel] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-hph0i9miel] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-hph0i9miel] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-hph0i9miel] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-hph0i9miel] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
